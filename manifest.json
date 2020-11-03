@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "web_accessible_resources": ["*"],
     "permissions": ["storage"],
-    "content_script": [
+    "content_scripts": [
         {
             "matches": ["https://github.com/*"],
             "css": ["css/grass_color.css"]

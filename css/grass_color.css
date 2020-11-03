@@ -1,0 +1,7 @@
+:root, [data-color-mode=light] {
+    --color-calendar-graph-day-bg: !important;
+    --color-calendar-graph-day-L1-bg:  !important;
+    --color-calendar-graph-day-L2-bg:  !important;
+    --color-calendar-graph-day-L3-bg:  !important;
+    --color-calendar-graph-day-L4-bg:  !important;
+}
