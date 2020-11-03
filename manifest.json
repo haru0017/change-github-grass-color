@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "change-github-grass-color",
+    "author": "Haruto Tanaka",
+    "description": "You can easily change the grass color on github",
+    "version": "1.0.0",
+    "web_accessible_resources": ["*"],
+    "permissions": ["storage"],
+    "content_script": [
+        {
+            "matches": ["https://github.com/*"],
+            "css": ["css/grass_color.css"]
+        }
+    ]
+}
