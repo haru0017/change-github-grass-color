@@ -1,3 +1,9 @@
 :root, [data-color-mode=light] {
     --color-calendar-graph-day-bg: #C0C0A0 !important;
+    /* L4 is the color when you can commit the most
+    --color-calendar-graph-day-L1-bg: <color> !important;
+    --color-calendar-graph-day-L2-bg: <color> !important;
+    --color-calendar-graph-day-L3-bg: <color> !important;
+    --color-calendar-graph-day-L4-bg: <color> !important;
+    */
 }
